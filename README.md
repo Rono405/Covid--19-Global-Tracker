@@ -22,6 +22,4 @@ This project visualizes and explores the global spread and impact of COVID-19 us
 ## How to Run the Project
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/covid19-global-data-tracker.git
-   cd covid19-global-data-tracker
+   git clone https://github.com/Rono405/Covid--19-Global-Tracker.git)
